@@ -1,13 +1,8 @@
 const AboutContainer = () => {
 	return <section className="about-container">
 		<h2>Sobre</h2>
-		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-			Enim eveniet deserunt, nulla optio ducimus accusamus nisi cupiditate beatae delectus, 
-			quibusdam iusto voluptatibus voluptas eos earum explicabo perferendis doloribus, 
-			atque aliquid.</p>
-		<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error vitae consequuntur 
-			repudiandae recusandae delectus soluta, enim deserunt tempora nisi ipsa inventore molestiae 
-			tempore explicabo dignissimos voluptate impedit, exercitationem ratione! Unde!</p>
+		<p>Meu nome é Dante Gabriel, sou um Dev Front End especializado em React.JS porém fiquei apaixonado pela área q posso aprender outros frameroks com certa facilidade</p>
+		<p>Além de desenvolvedor, uma área que me atrai bastante é a área de gerência de projetos, na faculdade em quase todos os projetos em grupo eu tomava a liderança e o projeto ficava muito bom, a equipe toda colaborava entre si e o andamento ia bem. Estou atualmente indo atrás de uma certificação de Scrum Master pois é a metodologia que eu mais acho viável atualmente e é foi a que eu mais estudei e utilizei em projetos da faculdade</p>
 	</section>
 }
 
