@@ -1,7 +1,7 @@
 import { DiHtml5, DiCss3, DiJsBadge, DiNodejsSmall, DiReact } from "react-icons/di"
 import { SiTypescript } from 'react-icons/si';
 import { FaSass } from "react-icons/fa";
-import { FaBootstrap } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 
 import '../Styles/components/technologiescontainer.sass'
 
@@ -13,7 +13,7 @@ const technologies = [
   { id: "react", name: "React", icon: <DiReact />, description: "Biblioteca JavaScript para construir interfaces de usuário eficientes e escaláveis." },
   { id: "ts", name: "TypeScript", icon: <SiTypescript />, description: "Superset de JavaScript que adiciona tipagem estática para desenvolvimento mais seguro." },
   { id: "sass", name: "Sass", icon: <FaSass />, description: "Extensão de CSS que permite usar variáveis, aninhamento e mixins para estilos mais eficientes." },
-  { id: "bootstrap", name: "Bootstrap", icon: <FaBootstrap />, description: "Framework de CSS para criar layouts responsivos e consistentes rapidamente." },
+  { id: "github", name: "Github", icon: <FaGithub />, description: "Plataforma de desenvolvimento colaborativo com Git, especializado em README.md informativos e commits semânticos." },
 ];
 
 const TechnologiesContainer = () => {
