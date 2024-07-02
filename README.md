@@ -17,4 +17,4 @@ Já que este projeto é estático e só tem uma página, não houve necessidade 
 
 Ainda há coisas na questão do design que eu quero acrescentar e vou atrás de mudar, mas está atualizado. Eu vou adicionando nas issues. 
 
-[O deploy está feito temporariamente em ] ([https://dantegabrieldev.netlify.app/])
+O deploy está feito temporariamente em ([https://dantegabrieldev.netlify.app/])
