@@ -1,0 +1,15 @@
+@use '../variables'
+@use '../mixins'
+
+.btn
+	background: variables.$gradient
+	padding: 1rem 1.2rem
+	color: variables.$text-color
+	padding: 20px 30px
+	border: none
+	border-radius: 3rem
+	cursor: pointer
+	transition: background 0.3 ease
+
+	&:hover
+		background: variables.$hover-gradient
