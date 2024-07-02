@@ -16,3 +16,6 @@ Para rodar o projeto em sua máquina basta clonar o repositório e o comando do 
 Já que este projeto é estático e só tem uma página, não houve necessidade de utilizar o React Router DOM, e por ser simples e não necessitar de tipagem não utilizei TypeScript.
 
 Ainda há coisas na questão do design que eu quero acrescentar e vou atrás de mudar, mas está atualizado. Eu vou adicionando nas issues. 
+
+[Deploy Temporário](https://dantegabrieldev.netlify.app/)
+
