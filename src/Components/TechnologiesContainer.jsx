@@ -1,7 +1,6 @@
 import { DiHtml5, DiCss3, DiJsBadge, DiNodejsSmall, DiReact } from "react-icons/di"
 import { SiTypescript } from 'react-icons/si';
-import { FaSass } from "react-icons/fa";
-import { FaGithub } from "react-icons/fa";
+import { FaSass, FaGithub } from "react-icons/fa";
 
 import '../Styles/components/technologiescontainer.sass'
 

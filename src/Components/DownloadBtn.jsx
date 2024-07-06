@@ -6,7 +6,7 @@ const DownloadBtn = () => {
 			window.open(url, '_blank');
 		};
 	return(
-		<button className="btn" onClick={handleDownload}>Download CV</button>
+		<button className="btn" onClick={handleDownload}>Meu CV</button>
 	);
 };
 
