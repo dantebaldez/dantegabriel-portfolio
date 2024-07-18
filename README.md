@@ -17,5 +17,5 @@ Já que este projeto é estático e só tem uma página, não houve necessidade 
 
 Ainda há coisas na questão do design que eu quero acrescentar e vou atrás de mudar, mas está atualizado. Eu vou adicionando nas issues. 
 
-[Deploy Temporário](https://dantegabrieldev.netlify.app/)
+[Deploy Temporário](https://dantegabriel-tech.netlify.app/)
 
