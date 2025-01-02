@@ -2,7 +2,7 @@ import '../Styles/components/downloadbtn.sass'
 
 const ProjectsBtn = () => {
 	const handleDownload = () => {
-			const url = 'https://drive.google.com/file/d/1yhgMc_QoVxNnVJ4m_6x-wvbqVoccPkav/view'
+			const url = 'https://github.com/dantebaldez'
 			window.open(url, '_blank');
 		};
 	return(
