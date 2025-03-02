@@ -2,7 +2,7 @@ import '../Styles/components/downloadbtn.sass'
 
 const DownloadBtn = () => {
 	const handleDownload = () => {
-			const url = 'https://drive.google.com/file/d/1hMURq9XcEyzGkMw7aJIEKWhKEug2BtV6/view?usp=sharing' 
+			const url = 'https://drive.google.com/file/d/1rtsr5ATGSOHnXhw0Y2SwNSw2qvtsISFE/view?usp=sharing' 
 			window.open(url, '_blank');
 		};
 	return(
